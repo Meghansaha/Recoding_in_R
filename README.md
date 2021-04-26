@@ -901,7 +901,6 @@ Medication Type
 
 <br>
 
-> <img src="C:/Users/meghansa/Desktop/Website%20Stuff/TTscripts/Recoding_in_R/images/Be%20Careful.png" width="200" />
 > <font color = "#040669">*This function only works when trying to
 > convert **character/string** values*</font>
 
